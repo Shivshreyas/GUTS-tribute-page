@@ -1,0 +1,89 @@
+body{
+    max-width: 1280px;
+    max-height: 100%;
+    margin: 30px auto;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.253);
+    color: rgb(0, 0, 0);
+    font-family: Permanent Marker, sans-serif;
+    }
+
+
+#title {
+    text-align: center;
+    margin: 0 auto;
+    
+      }
+
+ h5 {
+        font-size: 25px;
+        max-width: 500px;
+        margin: 0px auto;
+        text-align: center;
+        padding-top: 30px;
+        letter-spacing: 2px;
+    
+    }
+    
+h1  {
+         padding: 10px;
+        letter-spacing: 10px;
+        font-size: 70px;
+    }
+
+
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-left: auto;
+    margin-right: auto;
+        }
+
+#img-div {
+    max-width: 500px;
+    text-align: center;
+    margin: 0px auto;
+    font-size: 32px;
+    padding: 15px;
+    background-color: white;
+    color: black;
+
+        }
+
+#tribute-info{
+    padding: 20px;
+    font-size: 20px;
+    max-width: 650px;
+    margin: 0px auto;
+
+}
+
+#tribute-info >h4 { 
+    letter-spacing: 2px;
+
+                  }
+
+
+
+
+                               /* decoration for hover */
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+a:visited {
+    color:grey;
+    background-color: transparent;
+    text-decoration: none;
+}
